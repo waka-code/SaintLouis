@@ -83,19 +83,19 @@ one development issue at a time.
 <a href="https://github.com/waka-code/PrimerProjecto" target="_blank" rel="noopener noreferrer"><h2 id="Repository3">**REPOSITORIE**</h2></a>
 </article>
 
-<article>
+<article class="remove">
 <a href="https://waka-code.github.io/Sneakers/" target="_blank" rel="noopener noreferrer"><h4 class="img4"><p>**LINK PAGE**</p></h4></a>
 <br/>
 <a href="https://github.com/waka-code/Sneakers" target="_blank" rel="noopener noreferrer"><h2 id="Repository4">**REPOSITORIE**</h2></a>
 </article>
 
-<article>
+<article class="remove">
 <a href="https://waka-code.github.io/PortafolioWeb/" target="_blank" rel="noopener noreferrer"><h4 class="img5"><p>**LINK PAGE**</p></h4></a>
 <br/>
 <a href="https://github.com/waka-code/PortafolioWeb" target="_blank" rel="noopener noreferrer"><h2 id="Repository5">**REPOSITORIE**</h2></a>
 </article>
 
-<article>
+<article class="remove">
 <a href="https://waka-code.github.io/wakaCokeFB/" target="_blank" rel="noopener noreferrer"><h4 class="img6"><p>**LINK PAGE**</p></h4></a>
 <br/>
 <a href="https://github.com/waka-code/wakaCokeFB" target="_blank" rel="noopener noreferrer"><h2 id="Repository6">**REPOSITORIE**</h2></a>

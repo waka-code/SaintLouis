@@ -188,7 +188,7 @@ position: fixed;
      border-radius: 15px; width: 25vw; padding: 15px; height: 60vh; margin: 10px; margin-top: 100px;}
 .Skill .cubos .logos{ height: 5vh; }
 .Skill .cubos h2{font-family: 'Pacifico', cursive; color: rgba(255, 0, 0, 0.466);}
-.skillLanguaje p{font-family: 'Pacifico', cursive; margin-left: 5px;}
+.skillLanguaje p{ margin-left: 5px;}
 .footer{display: flex; justify-content: space-around;
     align-items: center; width: 85%; margin-left: 15%; padding: 25px; height: 100%; }
 
@@ -203,7 +203,7 @@ position: fixed;
 .footer article li a:active{cursor: pointer; color: rgb(134, 1, 1);}
 
 .Welcome{height: 50vw; width: 100%; padding-left: 16%;}
-.Welcome h2{font-family: 'Pacifico', cursive; padding-left: 25px; font-size: 100px; animation: colors 8s infinite  alternate;}
+.Welcome h2{padding-left: 25px; font-size: 100px; animation: colors 8s infinite  alternate;}
 @keyframes colors {
     20%{
         color: rgb(255, 132, 173);
@@ -222,10 +222,10 @@ position: fixed;
     }
 }
 
-.Welcome h4{font-family: 'Pacifico', cursive; padding-left: 25px; letter-spacing: 10px; font-size: 25px; color: rgba(255, 255, 255, 0.637);}
+.Welcome h4{padding-left: 25px; letter-spacing: 10px; font-size: 25px; color: rgba(255, 255, 255, 0.637);}
 .Welcome .btnWelcome{cursor: pointer; color: #fff; width: 20%; height: 7vh; border: 2px solid red; border-radius: 15px;}
 .Welcome .btnWelcome:active{color: red; transform: scale(0.9);}
-.Welcome .animado{font-family: 'Pacifico', cursive; font-size: 20px;  padding: 8px; color: rgba(235, 86, 86, 0.527);}
+.Welcome .animado{font-size: 20px;  padding: 8px; color: rgba(235, 86, 86, 0.527);}
 
 .About .animado{font-family: 'Pacifico', cursive; font-size: 20px;  padding: 40px; color: rgba(235, 86, 86, 0.527);}
 .ContenedorTwo .Sound{width: 100%; display: flex; justify-content: space-around; padding: 8px; height: 0vh;} 
