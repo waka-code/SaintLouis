@@ -28,7 +28,7 @@
 }
 
 @media (max-width: 850px){
-   .Welcome{ padding-left: 2%; height: 100vh;}
+   .Welcome{ padding-left: 2%; height: 70vh;}
    .About{margin-left: 0%;  width: 100%;}
    .AboutImg{padding: 70px; }
    .Portfolio{ padding-left: 0%;}
