@@ -58,8 +58,8 @@
 
 
 @media (max-width: 710px){
-   .Welcome{height: 100vh;}
-   .Welcome h2{ font-size: 65px;}
+   .Welcome{height: 100vh; padding-top: 15%;}
+   .Welcome h2{ font-size: 70px;}
    .Welcome h4{ font-size: 20px;}
    .Welcome .animado{ font-size: 16px;}
    .About{ flex-direction: column-reverse;}
@@ -80,7 +80,7 @@
 }
 
 @media (max-width: 600px){
-   .Welcome{text-align: center; padding-top: 50px;}
+   .Welcome{text-align: center; padding-top: 30%;}
    .Welcome h2{ font-size: 55px;}
    .Welcome h4{ font-size: 18px;}
    .Welcome .animado{ font-size: 14px;}
@@ -99,8 +99,8 @@
 }
 
 @media(max-width: 400px){
-   .Welcome{height: 70vh; padding-top: 0px;}
-   .Welcome h2{ font-size: 40px;}
+   .Welcome{ height: 70vh; padding-top: 30%;}
+   .Welcome h2{ font-size: 45px;}
    .Welcome h4{ font-size: 18px;}
    .AboutImg img{height: 20vh;}
    .About .animado{padding: 5px;}
