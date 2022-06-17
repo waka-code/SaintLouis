@@ -5,7 +5,7 @@
     background: rgba(6, 6, 6, 0.959);
     color: #fff;
     -webkit-user-select:none;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Joan', serif;
 }
 
 a{  
@@ -96,8 +96,8 @@ position: fixed;
 
 }
 
-.Portfolio{height: 100vh; }
-.imgProject{width: 100%; height: 100%; padding-left: 15%;  display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;  }
+.Portfolio{ height: 100vh; }
+.imgProject{padding-left: 15%;  display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;  }
 
 .Portfolio .imgProject article{ width: 30%; height: 30vh;}
 .Portfolio .imgProject a h4{cursor: pointer; border-radius: 20px; width: 100%; height: 30vh; ; transition: all 2s ease; 
@@ -202,8 +202,8 @@ position: fixed;
 .footer article li{font-family: 'Pacifico'; line-height: 40px; list-style: none;}
 .footer article li a:active{cursor: pointer; color: rgb(134, 1, 1);}
 
-.Welcome{height: 50vw; width: 100%; padding-left: 16%;}
-.Welcome h2{padding-left: 25px; font-size: 100px; animation: colors 8s infinite  alternate;}
+.Welcome{ height: 50vw; width: 100%; padding-left: 16%;}
+.Welcome h2{padding-left: 25px; font-size: 120px; animation: colors 8s infinite  alternate;}
 @keyframes colors {
     20%{
         color: rgb(255, 132, 173);
