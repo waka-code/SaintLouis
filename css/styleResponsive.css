@@ -66,10 +66,10 @@
    .Portfolio .imgProject{ width: 100%; display: flex; flex-direction: column;}
    .Portfolio .imgProject article{ width: 40%;}
    .Portfolio .imgProject article h2{display: none;}
-   .Skill{flex-direction: column;}
-   .Skill h2{font-size: 18px;}
-    .Skill .skillLanguaje{font-size: 13px; width:auto;}
-    .Skill .cubos{ flex-wrap: wrap;  margin-top: 5px; height: 30vh; display: flex; justify-content: space-evenly; width: auto;} 
+   .Skill{flex-direction: column; }
+   .Skill h2{font-size: 18px; }
+    .Skill .skillLanguaje{ font-size: 13px; width:auto;}
+    .Skill .cubos{text-align: center; flex-wrap: wrap; flex-direction: column;  margin-top: 5px; height: 30vh; display: flex; justify-content: space-evenly; width: auto;} 
     .Skill .education{display: none;}
     .footer{flex-direction: column-reverse; }
     .footer form{width: 100%; text-align: center;}
