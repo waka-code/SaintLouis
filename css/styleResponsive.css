@@ -7,7 +7,7 @@
 }
 
 @media (max-width: 1100px){
-   .Welcome{padding-left: 21%; height: 80vh;}
+   .Welcome{padding-left: 21%; height: 90vh;}
    .Welcome h2{font-size: 80px;}
 
 
@@ -23,8 +23,10 @@
    .footer{padding-left: 8%;}
 }
 
+
 @media (max-width: 900px){
-   .Welcome{height: 70vw;}
+   .Welcome{height: 80vw;}
+
 }
 
 @media (max-width: 850px){
@@ -56,13 +58,13 @@
 
 
 @media (max-width: 710px){
-   .Welcome{height: 80vh;}
+   .Welcome{height: 100vh;}
    .Welcome h2{ font-size: 65px;}
    .Welcome h4{ font-size: 20px;}
    .Welcome .animado{ font-size: 16px;}
    .About{ flex-direction: column-reverse;}
-   .AboutImg {height: 30vh;}
-   .AboutImg img{height: 30vh;}
+   .AboutImg {height: 50vh;}
+   .AboutImg img{height: 35vh; animation:none;}
    .Portfolio .imgProject{ width: 100%; display: flex; flex-direction: column;}
    .Portfolio .imgProject article{ width: 40%;}
    .Portfolio .imgProject article h2{display: none;}
@@ -78,7 +80,7 @@
 }
 
 @media (max-width: 600px){
-   .Welcome{text-align: center; height: 100vh; padding-top: 50px;}
+   .Welcome{text-align: center; padding-top: 50px;}
    .Welcome h2{ font-size: 55px;}
    .Welcome h4{ font-size: 18px;}
    .Welcome .animado{ font-size: 14px;}
@@ -86,8 +88,8 @@
 
    .About{text-align: center;}
    .About .animado{padding: 20px;}
-   .AboutImg {height: 35vh;}
-   .AboutImg img{height: 25vh;}
+   .AboutImg {height: 45vh;}
+   .AboutImg img{height: 30vh;}
    .footer form button{width: 50%;}
    .ContenedorTwo .Sound .play{position: absolute;}
    .Portfolio .imgProject article{ width: 100%;}
@@ -96,7 +98,8 @@
    }
 }
 
-@media(max-width: 350px){
+@media(max-width: 400px){
+   .Welcome{height: 70vh; padding-top: 0px;}
    .Welcome h2{ font-size: 40px;}
    .Welcome h4{ font-size: 18px;}
    .AboutImg img{height: 20vh;}

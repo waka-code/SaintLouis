@@ -222,7 +222,7 @@ position: fixed;
 }
 
 .Welcome h4{padding-left: 25px; letter-spacing: 10px; font-size: 25px; color: rgba(255, 255, 255, 0.637);}
-.Welcome .btnWelcome{cursor: pointer; color: #fff; width: 20%; height: 7vh; border: 2px solid red; border-radius: 15px;}
+.Welcome .btnWelcome{cursor: pointer; color: #fff; width: 20%; height: 7vh; border: 2px solid red; border-radius: 15px; font-size: 20px;}
 .Welcome .btnWelcome:active{color: red; transform: scale(0.9);}
 .Welcome .animado{font-size: 20px;  padding: 8px; color: rgba(235, 86, 86, 0.527);}
 
