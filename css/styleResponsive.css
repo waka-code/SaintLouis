@@ -1,0 +1,99 @@
+@media (max-width: 1200px){
+   .Skill .cubos {width: 35%; height: 50vh; margin-left:5px; 
+      box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.692),
+      -15px -15px 30px rgba(27, 27, 27, 0.411);
+       border: 2px solid rgba(0, 0, 0, 0.856);
+   }
+}
+
+@media (max-width: 1100px){
+   .Welcome{padding-left: 21%; height: 60vw;}
+   .Welcome h2{font-size: 70px;}
+
+
+   .navMenu{width: 20%;}
+   .ulMenu .liMenu{font-size: 18px;}
+
+   .About{padding-left: 8%;}
+   .Portfolio{padding-left: 8%;}
+   .Skill{height: 90vh; padding-left: 22%;}
+   .Skill .cubos{width: 80%; height: 55vh; margin-top: 100px;}
+   .Skill .cubos h2{font-size: 10pxpx;}
+   .Skill .cubos .logos{ height: 3vh; }
+   .footer{padding-left: 8%;}
+}
+
+@media (max-width: 900px){
+   .Welcome{height: 70vw;}
+}
+
+@media (max-width: 850px){
+   .Welcome{ padding-left: 2%; height: 100vh;}
+   .About{margin-left: 0%;  width: 100%;}
+   .AboutImg{padding: 70px; }
+   .Portfolio{ padding-left: 0%;}
+   .Portfolio .imgProject{width: 100vw; padding-right: 10%;}
+   .Skill{ padding-left: 0%;}
+   .footer{margin-left: 0%; width: 100%;}
+   .footer form input{width: 100%;}
+   .ContenedorTwo .Sound{justify-content: space-between;} 
+   .Hambur{display: flex;
+   border: none;
+}
+.Hambur:active{
+   transform: scale(0.8);
+}
+.Hambur img{
+   height: 5vh;
+   
+}
+
+.navHam{right: 0;}
+.navMenu{width: 100%; transition:all 0.5s ease;  overflow: auto; right: 0%; transform: scale(1) rotate(1turn);}
+
+.navHam{right: 120%;}
+}
+
+
+@media (max-width: 710px){
+   .Welcome h2{ font-size: 65px;}
+   .Welcome h4{ font-size: 20px;}
+   .Welcome .animado{ font-size: 16px;}
+   .About{ flex-direction: column-reverse;}
+   .AboutImg {height: 30vh;}
+   .AboutImg img{height: 30vh;}
+   .Portfolio .imgProject{ width: 100%; display: flex; flex-direction: column;}
+   .Portfolio .imgProject article{ width: 45%;}
+   .Portfolio .imgProject article h2{display: none;}
+   .Skill{flex-direction: column;}
+   .Skill h2{font-size: 18px;}
+    .Skill .skillLanguaje{font-size: 13px; width:auto;}
+    .Skill .cubos{ flex-wrap: wrap;  margin-top: 5px; height: 30vh; display: flex; justify-content: space-evenly; width: auto;} 
+    .Skill .education{display: none;}
+    .footer{flex-direction: column-reverse; }
+    .footer form{width: 100%; text-align: center;}
+    .footer form input{width: 60%;} 
+    .footer article{font-size: 15px; width: 100%;}
+}
+
+@media (max-width: 600px){
+   .Welcome{text-align: center;}
+   .Welcome h2{ font-size: 55px;}
+   .Welcome h4{ font-size: 18px;}
+   .Welcome .animado{ font-size: 14px;}
+   .Welcome .btnWelcome{width: 40%;}
+
+   .About{text-align: center;}
+   .About .animado{padding: 20px;}
+   .AboutImg {height: 35vh;}
+   .AboutImg img{height: 25vh;}
+   .footer form button{width: 50%;}
+   .ContenedorTwo .Sound .play{position: absolute;}
+}
+
+@media(max-width: 350px){
+   .Welcome h2{ font-size: 40px;}
+   .Welcome h4{ font-size: 18px;}
+   .AboutImg img{height: 20vh;}
+
+}
