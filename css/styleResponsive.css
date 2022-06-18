@@ -11,7 +11,9 @@
 
 
    .navMenu{width: 20%;}
-   .ulMenu .liMenu{font-size: 18px;}
+   .ulMenu .liMenu{font-size: 18px;
+      margin-top: 20px;
+   }
 
    .About{padding-left: 8%;}
    .Portfolio{padding-left: 8%;}
@@ -25,6 +27,7 @@
 
 @media (max-width: 900px){
    .Welcome{height: 80vw;}
+ 
 
 }
 
@@ -52,6 +55,10 @@
 .navHam{ right: 0;}
 .navMenu{width: 100%; transition:all 0.5s ease;  overflow: auto; right: 0%;}
 .navHam{right: 100%;}
+.ulMenu .liMenu{ 
+   margin-top: 20px;
+}
+
 }
 
 

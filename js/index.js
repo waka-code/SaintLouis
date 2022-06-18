@@ -183,7 +183,6 @@ NEWS**</h2></a>
         <article>
         <li>Phone Number: 829-504-1112</li>
         <li class="mail">Email:<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer"> Shenryvladimil@gmail.com</a></li>
-        <li>Name: Waddimi Saint Louis</li>
         <li>Copyright/WakaCode</li>
         </article>
           </div>
