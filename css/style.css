@@ -194,8 +194,8 @@ position: fixed;
 
     .footer form{width: 50%;}
     .footer form li{font-family: 'Pacifico'; padding-top: 15px; list-style: none;}
-.footer form input{width: 80%; height: 7vh; border-radius: 15px; border: none; background-color: rgba(122, 6, 6, 0.295);}
-.footer form textarea{background-color: rgba(122, 6, 6, 0.295); width: 80%; margin-top: 15px; border-radius: 15px;}
+.footer form input{padding: 5px; width: 80%; height: 7vh; border-radius: 15px; border: none; background-color: rgba(122, 6, 6, 0.295);}
+.footer form textarea{background-color: rgba(122, 6, 6, 0.295); width: 80%; margin-top: 15px; border-radius: 15px; padding: 5px;}
 .footer form button{cursor: pointer; border: 2px solid red; width: 30%; height: 7vh; margin-top: 15px; border-radius: 15px; font-size: 15px;}
 .footer form button:active{color: red; transform: scale(0.9);}
 .footer article{ text-align: center; font-size: 20px; width: 50%;}

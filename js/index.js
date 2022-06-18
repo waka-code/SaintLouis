@@ -68,37 +68,38 @@ one development issue at a time.
 <div class="imgProject">
 <article>
 <a href="https://waka-code.github.io/easybank-Proyect/" target="_blank" rel="noopener noreferrer"><h4 class="img1"><p>**LINK PAGE**</p></h4></a><br/>
-<a href="https://github.com/waka-code/easybank-Proyect" target="_blank" rel="noopener noreferrer"><h2 id="Repository1">**REPOSITORIE**</h2></a>
+<a href="https://github.com/waka-code/easybank-Proyect" target="_blank" rel="noopener noreferrer"><h2 id="Repository1">**EASYBANK**</h2></a>
 </article>
 
 <article>
 <a href="https://waka-code.github.io/loops-proyect/" target="_blank" rel="noopener noreferrer"><h4 class="img2"><p>**LINK PAGE**</p></h4></a>
 <br/>
-<a href="https://github.com/waka-code/loops-proyect" target="_blank" rel="noopener noreferrer"><h2 id="Repository2">**REPOSITORIE**</h2></a>
+<a href="https://github.com/waka-code/loops-proyect" target="_blank" rel="noopener noreferrer"><h2 id="Repository2">**LOOPSTUDIOS**</h2></a>
 </article>
 
 <article>
 <a href="https://waka-code.github.io/PrimerProjecto/" target="_blank" rel="noopener noreferrer"><h4 class="img3"><p>**LINK PAGE**</p></h4></a>
 <br/>
-<a href="https://github.com/waka-code/PrimerProjecto" target="_blank" rel="noopener noreferrer"><h2 id="Repository3">**REPOSITORIE**</h2></a>
+<a href="https://github.com/waka-code/PrimerProjecto" target="_blank" rel="noopener noreferrer"><h2 id="Repository3">**
+NEWS**</h2></a>
 </article>
 
 <article class="remove">
 <a href="https://waka-code.github.io/Sneakers/" target="_blank" rel="noopener noreferrer"><h4 class="img4"><p>**LINK PAGE**</p></h4></a>
 <br/>
-<a href="https://github.com/waka-code/Sneakers" target="_blank" rel="noopener noreferrer"><h2 id="Repository4">**REPOSITORIE**</h2></a>
+<a href="https://github.com/waka-code/Sneakers" target="_blank" rel="noopener noreferrer"><h2 id="Repository4">**SNEAKERS**</h2></a>
 </article>
 
 <article class="remove">
 <a href="https://waka-code.github.io/PortafolioWeb/" target="_blank" rel="noopener noreferrer"><h4 class="img5"><p>**LINK PAGE**</p></h4></a>
 <br/>
-<a href="https://github.com/waka-code/PortafolioWeb" target="_blank" rel="noopener noreferrer"><h2 id="Repository5">**REPOSITORIE**</h2></a>
+<a href="https://github.com/waka-code/PortafolioWeb" target="_blank" rel="noopener noreferrer"><h2 id="Repository5">**WAKACODE**</h2></a>
 </article>
 
 <article class="remove">
 <a href="https://waka-code.github.io/wakaCokeFB/" target="_blank" rel="noopener noreferrer"><h4 class="img6"><p>**LINK PAGE**</p></h4></a>
 <br/>
-<a href="https://github.com/waka-code/wakaCokeFB" target="_blank" rel="noopener noreferrer"><h2 id="Repository6">**REPOSITORIE**</h2></a>
+<a href="https://github.com/waka-code/wakaCokeFB" target="_blank" rel="noopener noreferrer"><h2 id="Repository6">**WAKABOOK**</h2></a>
 </article>
 </div>
 </div>
@@ -147,7 +148,7 @@ one development issue at a time.
 </section>
 
 <section class="cubos education">
-<h2>Education:<h2>
+<h2>Languages:<h2>
 
 <div class="skillLanguaje">
 <img src="img/idiomas.png" class="logos">
@@ -296,6 +297,7 @@ const validarName = /^[ÁÉÍÓÚA-Z][a-záéíóú]+(\s+[ÁÉÍÓÚA-Z]?[a-zá�
              });
         }
         Name.value = ``;
+        document.querySelector(`#Name`).focus();
         Email.value = ``;
         text.value = ``;
      });
