@@ -225,7 +225,7 @@ position: fixed;
 .Welcome h4{padding-left: 25px; letter-spacing: 10px; font-size: 25px; color: rgba(255, 255, 255, 0.637);}
 .Welcome .btnWelcome{cursor: pointer; color: #fff; width: 20%; height: 7vh; border: 2px solid red; border-radius: 15px; font-size: 20px;}
 .Welcome .btnWelcome:active{color: red; transform: scale(0.9);}
-.Welcome .animado{font-size: 20px;  padding: 8px; color: rgba(235, 86, 86, 0.527);}
+.Welcome .animado{font-family: 'Pacifico', cursive; font-size: 20px;  padding: 8px; color: rgba(235, 86, 86, 0.527);}
 
 .About .animado{font-family: 'Pacifico', cursive; font-size: 20px;  padding: 40px; color: rgba(235, 86, 86, 0.527);}
 .ContenedorTwo .Sound{width: 100%; display: flex; justify-content: space-around; padding: 8px; height: 0vh;} 

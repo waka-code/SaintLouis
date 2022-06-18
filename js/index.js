@@ -206,17 +206,17 @@ document.querySelector("#play").addEventListener(`click`,()=>{
     const playSound = document.querySelector(".audio");
     const imgplay = document.querySelector("#play");
      play = imgplay.getAttribute(`src`);
-     if(playSound === !playSound.play()){
+     if(playSound === !playSound.play() & play === `play-circle-regular-24.png`){
        playSound.play();
-       if(play === `play-circle-regular-24.png`){
-        imgplay =(`img/pause-circle-regular-24.png`);
-       }else{
+       imgplay =(`img/pause-circle-regular-24.png`);
+       }
+       else{
         play = (`img/play-circle-regular-24.png`)
         playSound.pause()
        }
         
     }
-})
+)
 
 
 //Validacion
