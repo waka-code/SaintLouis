@@ -208,12 +208,11 @@ document.querySelector("#play").addEventListener(`click`,()=>{
      play = imgplay.getAttribute(`src`);
      if(playSound === !playSound.play() & play === `play-circle-regular-24.png`){
        playSound.play();
-       imgplay =(`img/pause-circle-regular-24.png`);
        }
-       else{
+      /* else{
         play = (`img/play-circle-regular-24.png`)
         playSound.pause()
-       }
+       }*/
         
     }
 )

@@ -183,8 +183,9 @@ position: fixed;
 
 .Skill .skillLanguaje{color: rgba(0, 0, 0, 0.534);
     margin-top: 10px; line-height: 50px; display: flex; align-items: center; font-size: 15px;}
-.Skill .cubos {text-align: center;  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.774),
-    -15px -15px 30px rgba(27, 27, 27, 0.808);
+.Skill .cubos {text-align: center; 
+    box-shadow:  20px 20px 60px #000000,
+             -20px -20px 60px #000000;
      border-radius: 15px; width: 25vw; padding: 15px; height: 60vh; margin: 10px; margin-top: 100px;}
 .Skill .cubos .logos{ height: 5vh; }
 .Skill .cubos h2{ color: rgba(255, 0, 0, 0.466);}

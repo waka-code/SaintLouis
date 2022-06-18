@@ -1,8 +1,7 @@
 @media (max-width: 1200px){
    .Skill .cubos {width: 35%; height: 50vh; margin-left:5px; 
-      box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.692),
-      -15px -15px 30px rgba(27, 27, 27, 0.411);
-       border: 2px solid rgba(0, 0, 0, 0.856);
+      box-shadow:  20px 20px 60px #000000,
+             -20px -20px 60px #000000;
    }
 }
 
