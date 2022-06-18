@@ -104,37 +104,37 @@ position: fixed;
 }
 
 .Portfolio .imgProject .img1{
-    background-image: url(/img/p.png );
+    background-image: url(../img/p.png );
     background-repeat: no-repeat;
      background-size: cover;
 }
 
 .Portfolio .imgProject .img2{
-    background-image: url(/img/2.png );
+    background-image: url(../img/2.png );
     background-repeat: no-repeat;
      background-size: cover;
 }
 
 .Portfolio .imgProject .img3{
-    background-image: url(/img/3.png );
+    background-image: url(../img/3.png );
     background-repeat: no-repeat;
      background-size: cover;
 }
 
 .Portfolio .imgProject .img4{
-    background-image: url(/img/4.png );
+    background-image: url(../img/4.png );
     background-repeat: no-repeat;
      background-size: cover;
 }
 
 .Portfolio .imgProject .img5{
-    background-image: url(/img/7.png );
+    background-image: url(../img/7.png );
     background-repeat: no-repeat;
      background-size: cover;
 }
 
 .Portfolio .imgProject .img6{
-    background-image: url(/img/6.png );
+    background-image: url(../img/6.png );
     background-repeat: no-repeat;
      background-size: cover;
 }
