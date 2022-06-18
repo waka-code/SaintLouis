@@ -99,7 +99,7 @@
 }
 
 @media(max-width: 400px){
-   .Welcome{ height: 70vh; padding-top: 30%;}
+   .Welcome{padding-left: 0%; height: 70vh; padding-top: 30%;}
    .Welcome h2{ font-size: 45px;}
    .Welcome h4{ font-size: 18px;}
    .AboutImg img{height: 20vh;}

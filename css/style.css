@@ -97,7 +97,7 @@ position: fixed;
 }
 
 .Portfolio{height: 100vh; }
-.imgProject{ background-color: orange; height:100%; padding-left: 15%;  display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;  }
+.imgProject{ height:100%; padding-left: 15%;  display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;}
 
 .Portfolio .imgProject article{ width: 30%; height: 30vh;}
 .Portfolio .imgProject a h4{cursor: pointer; border-radius: 20px; width: 100%; height: 30vh; ; transition: all 2s ease; 
@@ -150,9 +150,10 @@ position: fixed;
     align-items: center;
     height: 30vh;
     width: 100%;
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(24, 0, 0, 0);
     transition: all 3s ease;
-    color: rgba(253, 253, 253, 0)
+    color: rgba(253, 253, 253, 0);
+    border-radius: 20px;
 }
 .Portfolio .imgProject a h4 p:hover{
     background-color: rgba(255, 255, 255, 0.726);
