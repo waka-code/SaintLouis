@@ -200,7 +200,7 @@ document.querySelector(`.navMenu`).addEventListener(`click`,()=>{
   navMenu.classList.toggle(`navHam`);
 })
 
-//Sound aun no funciona
+//Sound aun no funciona pausa
 document.querySelector("#play").addEventListener(`click`,()=>{
     const playSound = document.querySelector(".audio");
     const SoundPause = document.querySelector(".SoundPause");
