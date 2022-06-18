@@ -35,7 +35,7 @@ document.querySelector(".contenedor").innerHTML=`
 
 <div class="ContenedorTwo">
 
-<p class="Sound SoundPause"><audio  class="audio" loop controls src="music/FarxAway.mp3" type="audio/mp3"></audio> <img class="play" id="play" src="img/play-circle-regular-24.png" alt=""><button type="button" class="Hambur">
+<p class="Sound SoundPause"><audio  class="audio" loop controls src="music/Rap.mp3" type="audio/mp3"></audio> <img class="play" id="play" src="img/play-circle-regular-24.png" alt=""><button type="button" class="Hambur">
 <img src="img/menu-alt-right-regular-24.png" alt="">
 </button></p> 
 <div class="Welcome" id="Welcome">
