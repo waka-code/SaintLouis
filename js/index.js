@@ -24,7 +24,7 @@ document.querySelector(".contenedor").innerHTML=`
 </ul>
 <div class="socialMenu">
 <a href="https://www.facebook.com/vladimi.saintlouis/" target="_blank" rel="noopener noreferrer"><img src="img/facebook-circle-logo-24.png" clas=""></a>
-<a href="https://chat.whatsapp.com/DeW61pkbSFT4s2GZ28HuJA" target="_blank" rel="noopener noreferrer"><img src="img/whatsapp-logo-24.png" clas=""></a>
+<a href="https://wa.me/18295041112" target="_blank" rel="noopener noreferrer"><img src="img/whatsapp-logo-24.png" clas=""></a>
 <a href="https://www.linkedin.com/in/waddimi-saint-louis-b49424230/" target="_blank" rel="noopener noreferrer"><img src="img/linkedin-logo-24.png" clas=""></a>
 </div>
 
