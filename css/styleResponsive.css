@@ -49,10 +49,9 @@
    
 }
 
-.navHam{right: 0;}
-.navMenu{width: 100%; transition:all 0.5s ease;  overflow: auto; right: 0%; transform: scale(1) rotate(1turn);}
-
-.navHam{right: 120%;}
+.navHam{ right: 0;}
+.navMenu{width: 100%; transition:all 0.5s ease;  overflow: auto; right: 0%;}
+.navHam{right: 100%;}
 }
 
 
@@ -76,6 +75,7 @@
     .footer form{width: 100%; text-align: center;}
     .footer form input{width: 60%;} 
     .footer article{font-size: 15px; width: 100%;}
+    .ContenedorTwo .Sound .play{position: absolute;}
 }
 
 @media (max-width: 600px){
@@ -90,7 +90,7 @@
    .AboutImg {height: 45vh;}
    .AboutImg img{height: 30vh;}
    .footer form button{width: 50%;}
-   .ContenedorTwo .Sound .play{position: absolute;}
+   
    .Portfolio .imgProject article{ width: 100%;}
    .Portfolio .imgProject .remove{
       display: none;
