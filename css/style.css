@@ -24,8 +24,8 @@ ul{
 }
 .navMenu{
 padding: 15px; text-align: center; height: 100%; width:15%;
-box-shadow: 15px 15px 30px rgba(22, 22, 22, 0.651),
-    -15px -15px 30px rgba(26, 25, 25, 0.473);
+box-shadow:  20px 20px 60px #000000,
+             -20px -20px 60px #000000;
 backdrop-filter: blur(5px);
 -webkit-backdrop-filter: blur(5px);
 position: fixed;
