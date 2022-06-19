@@ -97,9 +97,9 @@ NEWS**</h2></a>
 </article>
 
 <article class="remove">
-<a href="https://waka-code.github.io/wakaCokeFB/" target="_blank" rel="noopener noreferrer"><h4 class="img6"><p>**LINK PAGE**</p></h4></a>
+<a href="https://waka-code.github.io/MentalGame/" target="_blank" rel="noopener noreferrer"><h4 class="img6"><p>**LINK PAGE**</p></h4></a>
 <br/>
-<a href="https://github.com/waka-code/wakaCokeFB" target="_blank" rel="noopener noreferrer"><h2 id="Repository6">**WAKABOOK**</h2></a>
+<a href="https://github.com/waka-code/MentalGame" target="_blank" rel="noopener noreferrer"><h2 id="Repository6">**MENTALGAME**</h2></a>
 </article>
 </div>
 </div>
