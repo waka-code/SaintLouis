@@ -82,6 +82,7 @@
     .footer form input{width: 60%;} 
     .footer article{font-size: 15px; width: 100%;}
     .ContenedorTwo .Sound .play{position: absolute;}
+    .ContenedorTwo .Sound .pausebtn{position: absolute;}
 }
 
 @media (max-width: 600px){

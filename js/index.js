@@ -35,7 +35,7 @@ document.querySelector(".contenedor").innerHTML=`
 
 <div class="ContenedorTwo">
 
-<p class="Sound "><audio  class="audio SoundPause" loop controls src="music/Rap.mp3" type="audio/mp3"></audio> <img class="play" id="play" src="img/play-circle-regular-24.png" alt=""><button type="button" class="Hambur">
+<p class="Sound ">  <audio  class="audio SoundPause" loop controls src="music/Rap.mp3" type="audio/mp3"></audio> <img src="img/pause-circle-regular-24.png" class="pausebtn"><img class="play" id="play" src="img/play-circle-regular-24.png" alt=""><button type="button" class="Hambur">
 <img src="img/menu-alt-right-regular-24.png" alt="">
 </button></p> 
 <div class="Welcome" id="Welcome">
@@ -200,18 +200,27 @@ document.querySelector(`.navMenu`).addEventListener(`click`,()=>{
   navMenu.classList.toggle(`navHam`);
 })
 
-//Sound aun no funciona pausa
+//Sound 
 document.querySelector("#play").addEventListener(`click`,()=>{
     const playSound = document.querySelector(".audio");
-    const SoundPause = document.querySelector(".SoundPause");
+    const pausebtn = document.querySelector(".pausebtn");
+    const play = document.querySelector("#play");
     
-    const imgplay = document.querySelector("#play");
      playSound.volume = 0.30;
-     if(playSound === !playSound.play()){
-       playSound.play()
-       }
+        playSound.play()
+        pausebtn.style.display=`block`;
+        play.style.display=`none`;
     }
 )
+
+document.querySelector(".pausebtn").addEventListener(`click`,()=>{
+  const playSound = document.querySelector(".audio");
+  const pausebtn = document.querySelector(".pausebtn");
+  const play = document.querySelector("#play");
+        playSound.pause()
+        play.style.display=`block`;
+        pausebtn.style.display=`none`;
+})
 
 //Validacion
 const btn = document.getElementById('btnForm');
