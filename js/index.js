@@ -122,15 +122,15 @@ NEWS**</h2></a>
 <img src="img/css.png" class="logos">
 <p class="skill__tecgnologia"> CSS</p>
 </div>
-</section>
 
-<section class="cubos">
-<h2>Framework:</h2>
 <div class="skillLanguaje">
 <img src="img/sasss.png" class="logos">
 <p class="skill__tecgnologia">SASS</p>
 </div>
+</section>
 
+<section class="cubos">
+<h2>Tools:</h2>
 <div class="skillLanguaje">
 <img src="img/figma.png" class="logos">
 <p class="skill__tecgnologia"> FIGMA</p>

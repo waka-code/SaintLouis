@@ -74,7 +74,7 @@ position: fixed;
 }
 
 .ContenedorTwo{ width: 100%;  height: 100%;}
-.About{list-style: none; padding: 50px; font-size: 18px; height: 100vh; display: flex; justify-content: center; align-items: center; width: 85%; margin-left: 15%;}
+.About{ list-style: none; padding: 50px; font-size: 18px; height: 100vh; display: flex; justify-content: center; align-items: center; width: 85%; margin-left: 15%;}
 .AboutImg img{box-shadow: 15px 15px 30px rgba(196, 0, 0, 0.438),
     -15px -15px 30px rgba(190, 0, 0, 0.205); height: 40vh; border-radius: 100%; border: 2px solid rgba(212, 4, 4, 0.993); animation: ani3D 8s infinite alternate;}
 .AboutImg{padding: 100px; }
@@ -180,11 +180,11 @@ position: fixed;
 
 .Skill .skillLanguaje{margin-top: 10px; line-height: 50px; display: flex; align-items: center; font-size: 15px;}
 .Skill .cubos {text-align: center; 
-    box-shadow:  20px 20px 60px #000000,
-             -20px -20px 60px #000000;
+    box-shadow:  20px 20px 60px #1b1a1a8f,
+             -20px -20px 60px #0c0b0b85;
      border-radius: 15px; width: 25vw; padding: 15px; height: 50vh; margin: 10px; margin-top: 100px;}
 .Skill .cubos .logos{ height: 5vh; }
-.Skill .cubos h2{ color: rgba(255, 0, 0, 0.466);}
+.Skill .cubos h2{ color: rgba(241, 18, 18, 0.904);}
 .skillLanguaje p{ margin-left: 5px;}
 .footer{display: flex; justify-content: space-around;
     align-items: center; width: 85%; margin-left: 15%; padding: 25px; height: 100%; }
@@ -222,9 +222,9 @@ position: fixed;
 .Welcome h4{padding-left: 25px; letter-spacing: 10px; font-size: 25px; color: rgba(255, 255, 255, 0.637);}
 .Welcome .btnWelcome{ cursor: pointer; color: #fff; width: 20%; height: 7vh; border: 2px solid red; border-radius: 15px; font-size: 20px;}
 .Welcome .btnWelcome:active{color: red; transform: scale(0.9);}
-.Welcome .animado{font-family: 'Pacifico', cursive; font-size: 20px;  padding: 8px; color: rgba(235, 86, 86, 0.527);}
+.Welcome .animado{font-family: 'Shadows Into Light', cursive; font-size: 20px;  padding: 8px; color: rgba(241, 18, 18, 0.904);}
 
-.About .animado{font-family: 'Pacifico', cursive; font-size: 20px;  padding: 40px; color: rgba(235, 86, 86, 0.527);}
+.About .animado{font-family: 'Shadows Into Light', cursive; font-size: 20px;  padding: 40px; color: rgba(241, 18, 18, 0.904);}
 .ContenedorTwo .Sound{width: 100%; display: flex; justify-content: space-around; padding: 8px; height: 0vh;} 
 .ContenedorTwo .Sound .play{height: 5vh; cursor: pointer; animation: imgPlay 3s infinite alternate;}
 @keyframes imgPlay {

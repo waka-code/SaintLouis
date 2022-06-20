@@ -1,7 +1,6 @@
 @media (max-width: 1200px){
    .Skill .cubos {width: 35%; height: 50vh; margin-left:5px; 
-      box-shadow:  20px 20px 60px #000000,
-             -20px -20px 60px #000000;
+      
    }
 }
 
@@ -92,17 +91,21 @@
    .Welcome .animado{ font-size: 14px;}
    .Welcome .btnWelcome{width: 40%;}
 
-   .About{text-align: center;}
+   .About{text-align: center; }
    .About .animado{padding: 20px;}
    .AboutImg {height: 45vh;}
    .AboutImg img{height: 30vh;}
+
    .footer form button{width: 50%;}
-   
+   .Portfolio .imgProject{padding-left: 4%;}
    .Portfolio .imgProject article{ width: 100%;}
    .Portfolio .imgProject .remove{
       display: none;
    }
-}
+   }
+
+   
+
 
 @media(max-width: 400px){
    .Welcome{padding-left: 0%; height: 70vh; padding-top: 30%;}
