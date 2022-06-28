@@ -143,7 +143,7 @@ NEWS**</h2></a>
 
 <div class="skillLanguaje">
 <img src="img/react.png" class="logos">
-<p class="skill__tecgnologia">React Native</p>
+<p class="skill__tecgnologia">REACT NATIVE</p>
 </div>
 
 <div class="skillLanguaje">
