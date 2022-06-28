@@ -142,6 +142,11 @@ NEWS**</h2></a>
 </div>
 
 <div class="skillLanguaje">
+<img src="img/react.png" class="logos">
+<p class="skill__tecgnologia">React Native</p>
+</div>
+
+<div class="skillLanguaje">
 <img src="img/image.png" class="logos">
 <p class="skill__tecgnologia"> GIT/GITHUB</p>
 </div>
