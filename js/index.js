@@ -143,12 +143,17 @@ NEWS**</h2></a>
 
 <div class="skillLanguaje">
 <img src="img/react.png" class="logos">
-<p class="skill__tecgnologia">REACT NATIVE</p>
+<p class="skill__tecgnologia">REACT</p>
 </div>
 
 <div class="skillLanguaje">
 <img src="img/image.png" class="logos">
 <p class="skill__tecgnologia"> GIT/GITHUB</p>
+</div>
+
+<div class="skillLanguaje">
+<img src="img/sqll.png" class="logos">
+<p class="skill__tecgnologia"> SQL SERVER</p>
 </div>
 </section>
 

@@ -182,7 +182,7 @@ position: fixed;
 .Skill .cubos {text-align: center; 
     box-shadow:  20px 20px 60px #1b1a1a8f,
              -20px -20px 60px #0c0b0b85;
-     border-radius: 15px; width: 25vw; padding: 15px; height: 50vh; margin: 10px; margin-top: 100px;}
+     border-radius: 15px; width: 25vw; padding: 15px; height: 55vh; margin: 10px; margin-top: 100px;}
 .Skill .cubos .logos{ height: 5vh; }
 .Skill .cubos h2{ color: rgba(241, 18, 18, 0.904);}
 .skillLanguaje p{ margin-left: 5px;}
